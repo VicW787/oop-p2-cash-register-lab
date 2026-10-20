@@ -12,4 +12,4 @@ A simple Python cash register model built with OOP.
     pytest
 
 ## Screenshot
-![Tests passing](images/tests-passing.png)
+![Tests passing](images/tests_passing.png)
